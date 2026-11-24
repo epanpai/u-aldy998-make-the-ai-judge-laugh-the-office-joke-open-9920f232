@@ -1,0 +1,5 @@
+# kit + local output (never committed)
+*-kit/
+*.tar.gz
+*.tgz
+out/
